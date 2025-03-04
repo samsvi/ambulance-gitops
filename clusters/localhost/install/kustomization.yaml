@@ -9,3 +9,6 @@ labels:
 
 resources:
 - ../../../apps/sses-ambulance-ufe
+
+components:
+- ../../../components/version-developers
