@@ -4,7 +4,10 @@ metadata:
   name: sses-ambulance-ufe-content
 spec:
   microFrontend: sses-ambulance-ufe
-  element: sses-ambulance-wl-list
+  element: sses-ambulance-wl-app
+  attributes:
+    - name: base-path
+      value: /sses-ambulance-wl/
   displayRules:
     - allOf:
       - context-name: main-content
