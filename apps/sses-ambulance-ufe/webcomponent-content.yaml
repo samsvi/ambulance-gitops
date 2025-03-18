@@ -10,6 +10,8 @@ spec:
       value: http://localhost:5000/api
     - name: ambulance-id
       value: bobulova
+    - name: base-path
+      value: /sses-ambulance-wl/
   displayRules:
     - allOf:
       - context-name: main-content
