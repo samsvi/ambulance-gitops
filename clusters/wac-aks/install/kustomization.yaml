@@ -12,6 +12,7 @@ labels:
 
 resources:
 - ../../../apps/sses-ambulance-ufe
+- ../../../apps/sses-ambulance-webapi
 
 
 components:

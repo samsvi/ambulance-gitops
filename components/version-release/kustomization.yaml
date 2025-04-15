@@ -4,3 +4,6 @@ images:
 - name: vandyga/ambulance-ufe
   newName: vandyga/ambulance-ufe
   newTag: 1.0.0  #aktuálna verzia docker obrazu, ktorú chcete aby používatelia - cvičiaci - videli nasadenú
+- name: vandyga/ambulance-wl-webapi
+  newName: vandyga/ambulance-wl-webapi
+  newTag: 1.1.0
