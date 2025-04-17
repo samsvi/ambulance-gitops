@@ -3,4 +3,4 @@ kind: Component
 images:
 - name: vandyga/ambulance-wl-webapi
   newName: vandyga/ambulance-wl-webapi # {"$imagepolicy":  "wac-hospital:ambulance-webapi:name"}
-  newTag: main # {"$imagepolicy": "wac-hospital:ambulance-webapi:tag"}
+  newTag: main.20250415.1237 # {"$imagepolicy": "wac-hospital:ambulance-webapi:tag"}
